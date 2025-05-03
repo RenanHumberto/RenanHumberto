@@ -105,8 +105,6 @@ Se quiser me conhecer melhor e trocar um papo, pode entrar em contato comigo pel
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
     />  
 </div>
-
-<br/>
      
 ### 📈`Estatísticas`
 
